@@ -20,6 +20,6 @@ List links and description
 ## CTF
 ## Playgrounds
 ## Genesys Blocks
-##Standarts
+## Standarts
 ## Databases
 ## Web3Auditors Companies
