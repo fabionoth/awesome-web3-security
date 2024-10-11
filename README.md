@@ -33,13 +33,15 @@ List links and description
 * [Ethereum Security Box](https://github.com/trailofbits/eth-security-toolbox) - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools.
 * [Manticore](https://github.com/trailofbits/manticore) - Manticore is a symbolic execution tool for the analysis of smart contracts and binaries.
 * [Octopus](https://github.com/FuzzingLabs/octopus) - Octopus is a security analysis framework for WebAssembly module and Blockchain Smart Contract.
+### OS
+* [ZIION](https://www.ziion.org/) - ZIION is the first open-source, end-to-end, pre-compiled, multi-architecture, multi-protocol blockchain security testing and development solution
+### Fuzzers
+* [Echidna](https://github.com/crytic/echidna) - Echidna is a Haskell program designed for fuzzing/property-based testing of Ethereum smart contracts.
+* [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+* [ChainFuzz](https://github.com/ChainSecurity/ChainFuzz) - ChainFuzz requires a truffle project with correct migration files to fuzz a project.
 ### Other tools
 * [ETH-Toolbox](https://eth-toolbox.com/) - EthToolbox v1.1 is a set of useful tools for Ethereum developers.
 * [dethcode](https://github.com/dethcrypto/dethcode) - View source of deployed Ethereum smart contracts in VS Code
-### OS
-* [ZIION](https://www.ziion.org/) - ZIION is the first open-source, end-to-end, pre-compiled, multi-architecture, multi-protocol blockchain security testing and development solution
-### Unity Testing
-### Fuzzers
 ### Extensions and Formatters
 ## BugBounty
 ## CTF
