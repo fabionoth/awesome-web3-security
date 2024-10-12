@@ -24,7 +24,9 @@ List links and description
 * [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 * [Hardhat](https://hardhat.org/) - Hardhat is a development environment for Ethereum software
 * [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+* [Scribble](https://github.com/ConsenSys/scribble) - A Solidity runtime verification tool for property-based testing.
 * [Slither](https://github.com/crytic/slither) - Slither is a Solidity & Vyper static analysis framework written in Python3
+* [Surya](https://github.com/ConsenSys/surya) - Surya is an utility tool for smart contract systems. It provides a number of visual outputs and information about the contracts' structure.
 * [SmartCheck](https://github.com/smartdec/smartcheck) - SmartCheck is an extensible static analysis tool for discovering vulnerabilities and other code issues in Ethereum smart contracts written in the Solidity programming language.
 * [Mythril](https://github.com/ConsenSys/mythril) - Mythril is a security analysis tool for EVM bytecode
 * [Mythx](https://mythx.io/) - Create a MythX account, link your Ethereum address, and generate API keys
