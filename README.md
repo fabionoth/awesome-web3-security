@@ -60,4 +60,3 @@ List links and description
 ## Databases
 * [Chainlist](https://chainlist.org/) - Helping users connect to EVM powered networks
 * [REKT](https://rekt.news/leaderboard/) - Rekt News is a leading online platform offering timely and concise information on decentralized finance (DeFi), blockchain, and the cryptocurrency industry
-## Web3Auditors Companies
