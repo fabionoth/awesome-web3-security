@@ -66,7 +66,8 @@ List links and description
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - The training ground for security researchers, developers and educators to dive into smart contract security.
 * [The Ethernaut](https://ethernaut.openzeppelin.com/) - The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org
 ## <a name="playgrounds"> Playgrounds
-* [Remix Ethereum](https://remix.ethereum.org/) - No more words. Everybody knows Remix 
+* [Remix Ethereum](https://remix.ethereum.org/) - No more words. Everybody knows Remix
+* [Rust Playground](https://play.rust-lang.org/) - The Rust Playground
 ## <a name="standards"> Standards
 * [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) - The ERC-20 introduces a standard for Fungible Tokens, in other words, they have a property that makes each Token be exactly the same (in type and value) as another Token.
 * [OWASP Smart Contract](https://owasp.org/www-project-smart-contract-top-10/) - The OWASP Smart Contract Top 10 is a standard awareness document that intends to provide Web3 developers and security teams with insight into the top 10 vulnerabilities found in smart contracts.
