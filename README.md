@@ -10,6 +10,9 @@ List links and description
 * **[Tools](#tools)**
   * [Forensics](#forensics)
   * [Testing](#testing)
+  * [SAST/DAST/Unity Test Analysis](#sast)
+  * [OS](#os)
+  * [Fuzzers](#fuzzers)
 
 ## <a name="tools"></a> Tools
 ### <a name="forensics"> Forensics
@@ -22,7 +25,7 @@ List links and description
 * [Rugscreen](https://rugscreen.com/) - Catches rugpulls before you lose money.
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics
 * [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
-### SAST/DAST/Unity Test Analisys
+### <a name="sast"> SAST/DAST/Unity Test Analysis
 * [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 * [Ethereum Security Box](https://github.com/trailofbits/eth-security-toolbox) - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools.
 * [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -37,9 +40,9 @@ List links and description
 * [Surya](https://github.com/ConsenSys/surya) - Surya is an utility tool for smart contract systems. It provides a number of visual outputs and information about the contracts' structure.
 * [SmartCheck](https://github.com/smartdec/smartcheck) - SmartCheck is an extensible static analysis tool for discovering vulnerabilities and other code issues in Ethereum smart contracts written in the Solidity programming language.
 * [Truffle Suite](https://archive.trufflesuite.com/) - The most comprehensive suite of tools for smart contract development
-### OS
+### <a name="os"> OS
 * [ZIION](https://www.ziion.org/) - ZIION is the first open-source, end-to-end, pre-compiled, multi-architecture, multi-protocol blockchain security testing and development solution
-### Fuzzers
+### <a name="fuzzers"> Fuzzers
 * [ChainFuzz](https://github.com/ChainSecurity/ChainFuzz) - ChainFuzz requires a truffle project with correct migration files to fuzz a project.
 * [Echidna](https://github.com/crytic/echidna) - Echidna is a Haskell program designed for fuzzing/property-based testing of Ethereum smart contracts.
 * [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
