@@ -10,36 +10,36 @@ List links and description
 
 ## Tools
 ### Forensics
-* [DeDaub](https://app.dedaub.com/decompile) - The Dedaub decompiler takes Ethereum Virtual Machine (EVM) bytecode and produces more readable Solidity-like code.
 * [abi-decompiler](https://github.com/Decurity/abi-decompiler) - The purpose of abi-decompiler is to implement a simple tools to recover ABI of EVM smart contracts, including function names.
+* [DeDaub](https://app.dedaub.com/decompile) - The Dedaub decompiler takes Ethereum Virtual Machine (EVM) bytecode and produces more readable Solidity-like code.
 * [Panoramix](https://github.com/palkeo/panoramix) -This is an EVM decompiler.
 ### Testing
 * [BSCheck](https://bscheck.eu/) - Free Binance Smart Chain token analyzer
-* [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
 * [QuillCheck](https://check.quillai.network/) - Safeguard your web3 investments with our AI Agent. Uncover honeypots, understand token permissions, and get comprehensive market insights. Shield yourself from rugpulls and scam tokens. DYOR here!
 * [Rugscreen](https://rugscreen.com/) - Catches rugpulls before you lose money.
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics
+* [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
 ### SAST/DAST/Unity Test Analisys
-* [Truffle Suite](https://archive.trufflesuite.com/) - The most comprehensive suite of tools for smart contract development
 * [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
-* [Hardhat](https://hardhat.org/) - Hardhat is a development environment for Ethereum software
+* [Ethereum Security Box](https://github.com/trailofbits/eth-security-toolbox) - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools.
 * [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+* [Hardhat](https://hardhat.org/) - Hardhat is a development environment for Ethereum software
+* [Manticore](https://github.com/trailofbits/manticore) - Manticore is a symbolic execution tool for the analysis of smart contracts and binaries.
+* [Mythril](https://github.com/ConsenSys/mythril) - Mythril is a security analysis tool for EVM bytecode
+* [Mythx](https://mythx.io/) - Create a MythX account, link your Ethereum address, and generate API keys
+* [Octopus](https://github.com/FuzzingLabs/octopus) - Octopus is a security analysis framework for WebAssembly module and Blockchain Smart Contract.
 * [Scribble](https://github.com/ConsenSys/scribble) - A Solidity runtime verification tool for property-based testing.
+* [Security2](https://github.com/eth-sri/securify2) - Securify 2.0 is a security scanner for Ethereum smart contracts supported by the Ethereum Foundation and ChainSecurity.
 * [Slither](https://github.com/crytic/slither) - Slither is a Solidity & Vyper static analysis framework written in Python3
 * [Surya](https://github.com/ConsenSys/surya) - Surya is an utility tool for smart contract systems. It provides a number of visual outputs and information about the contracts' structure.
 * [SmartCheck](https://github.com/smartdec/smartcheck) - SmartCheck is an extensible static analysis tool for discovering vulnerabilities and other code issues in Ethereum smart contracts written in the Solidity programming language.
-* [Mythril](https://github.com/ConsenSys/mythril) - Mythril is a security analysis tool for EVM bytecode
-* [Mythx](https://mythx.io/) - Create a MythX account, link your Ethereum address, and generate API keys
-* [Security2](https://github.com/eth-sri/securify2) - Securify 2.0 is a security scanner for Ethereum smart contracts supported by the Ethereum Foundation and ChainSecurity.
-* [Ethereum Security Box](https://github.com/trailofbits/eth-security-toolbox) - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools.
-* [Manticore](https://github.com/trailofbits/manticore) - Manticore is a symbolic execution tool for the analysis of smart contracts and binaries.
-* [Octopus](https://github.com/FuzzingLabs/octopus) - Octopus is a security analysis framework for WebAssembly module and Blockchain Smart Contract.
+* [Truffle Suite](https://archive.trufflesuite.com/) - The most comprehensive suite of tools for smart contract development
 ### OS
 * [ZIION](https://www.ziion.org/) - ZIION is the first open-source, end-to-end, pre-compiled, multi-architecture, multi-protocol blockchain security testing and development solution
 ### Fuzzers
+* [ChainFuzz](https://github.com/ChainSecurity/ChainFuzz) - ChainFuzz requires a truffle project with correct migration files to fuzz a project.
 * [Echidna](https://github.com/crytic/echidna) - Echidna is a Haskell program designed for fuzzing/property-based testing of Ethereum smart contracts.
 * [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-* [ChainFuzz](https://github.com/ChainSecurity/ChainFuzz) - ChainFuzz requires a truffle project with correct migration files to fuzz a project.
 ### Other tools
 * [ETH-Toolbox](https://eth-toolbox.com/) - EthToolbox v1.1 is a set of useful tools for Ethereum developers.
 * [dethcode](https://github.com/dethcrypto/dethcode) - View source of deployed Ethereum smart contracts in VS Code
@@ -47,11 +47,11 @@ List links and description
 * [Hacken Proof](https://hackenproof.com/) - Expert web3 bug bounty and crowdsourced audit platform
 * [Immunefi](https://immunefi.com/) - Web3's bug bounty platform
 ## CTF
-* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - The training ground for security researchers, developers and educators to dive into smart contract security.
 * [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
-* [The Ethernaut](https://ethernaut.openzeppelin.com/) - The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org
 * [Capture the Ether](https://capturetheether.com/) - the game of Ethereum smart contract security
 * [ciphershastra](https://ciphershastra.com/) - A place where you can enhance your Security Skills by solving and learning from CTF-like challenges.
+* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - The training ground for security researchers, developers and educators to dive into smart contract security.
+* [The Ethernaut](https://ethernaut.openzeppelin.com/) - The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org
 ## Playgrounds
 * [Remix Ethereum](https://remix.ethereum.org/) - No more words.Everybody knows Remix 
 ## Standards
