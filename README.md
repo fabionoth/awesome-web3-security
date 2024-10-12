@@ -6,7 +6,6 @@ It is a collection of awesome software, libraries, documents, books, resources, 
 
 Thanks to all [contributors](https://github.com/fabionoth/awesome-web3-security/graphs/contributors). You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
-
 List links and description 
 
 ## Tools
@@ -42,11 +41,18 @@ List links and description
 ### Other tools
 * [ETH-Toolbox](https://eth-toolbox.com/) - EthToolbox v1.1 is a set of useful tools for Ethereum developers.
 * [dethcode](https://github.com/dethcrypto/dethcode) - View source of deployed Ethereum smart contracts in VS Code
-### Extensions and Formatters
 ## BugBounty
 ## CTF
+* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - The training ground for security researchers, developers and educators to dive into smart contract security.
+* [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
+* [The Ethernaut](https://ethernaut.openzeppelin.com/) - The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org
+* [Capture the Ether](https://capturetheether.com/) - the game of Ethereum smart contract security
+* [ciphershastra](https://ciphershastra.com/) - A place where you can enhance your Security Skills by solving and learning from CTF-like challenges.
 ## Playgrounds
-## Genesys Blocks
+* [Remix Ethereum](https://remix.ethereum.org/) - No more words.Everybody knows Remix 
 ## Standards
+* [ERC 20] - (https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) - The ERC-20 introduces a standard for Fungible Tokens, in other words, they have a property that makes each Token be exactly the same (in type and value) as another Token.
+* [OWASP Smart Contract] - (https://owasp.org/www-project-smart-contract-top-10/) - The OWASP Smart Contract Top 10 is a standard awareness document that intends to provide Web3 developers and security teams with insight into the top 10 vulnerabilities found in smart contracts.
 ## Databases
+* [REKT](https://rekt.news/leaderboard/) - Rekt News is a leading online platform offering timely and concise information on decentralized finance (DeFi), blockchain, and the cryptocurrency industry
 ## Web3Auditors Companies
