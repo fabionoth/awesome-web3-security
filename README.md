@@ -13,6 +13,13 @@ List links and description
   * [SAST/DAST/Unity Test Analysis](#sast)
   * [OS](#os)
   * [Fuzzers](#fuzzers)
+  * [Other tools](#others)
+* **[BugBounty](#bugbounty)**
+* **[CTF](#ctf)**
+* **[Playgrounds](#playgrounds)**
+* **[Standards](#standards)**
+* **[Databases/Books and References](#databases)**
+    
 
 ## <a name="tools"></a> Tools
 ### <a name="forensics"> Forensics
@@ -46,24 +53,24 @@ List links and description
 * [ChainFuzz](https://github.com/ChainSecurity/ChainFuzz) - ChainFuzz requires a truffle project with correct migration files to fuzz a project.
 * [Echidna](https://github.com/crytic/echidna) - Echidna is a Haskell program designed for fuzzing/property-based testing of Ethereum smart contracts.
 * [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-### Other tools
+### <a name="others"> Other tools
 * [ETH-Toolbox](https://eth-toolbox.com/) - EthToolbox v1.1 is a set of useful tools for Ethereum developers.
 * [dethcode](https://github.com/dethcrypto/dethcode) - View source of deployed Ethereum smart contracts in VS Code
-## BugBounty
+## <a name="bugbounty"> BugBounty
 * [Hacken Proof](https://hackenproof.com/) - Expert web3 bug bounty and crowdsourced audit platform
 * [Immunefi](https://immunefi.com/) - Web3's bug bounty platform
-## CTF
+## <a name="ctf"> CTF
 * [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
 * [Capture the Ether](https://capturetheether.com/) - the game of Ethereum smart contract security
 * [ciphershastra](https://ciphershastra.com/) - A place where you can enhance your Security Skills by solving and learning from CTF-like challenges.
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - The training ground for security researchers, developers and educators to dive into smart contract security.
 * [The Ethernaut](https://ethernaut.openzeppelin.com/) - The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org
-## Playgrounds
+## <a name="playgrounds"> Playgrounds
 * [Remix Ethereum](https://remix.ethereum.org/) - No more words. Everybody knows Remix 
-## Standards
+## <a name="standards"> Standards
 * [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) - The ERC-20 introduces a standard for Fungible Tokens, in other words, they have a property that makes each Token be exactly the same (in type and value) as another Token.
 * [OWASP Smart Contract](https://owasp.org/www-project-smart-contract-top-10/) - The OWASP Smart Contract Top 10 is a standard awareness document that intends to provide Web3 developers and security teams with insight into the top 10 vulnerabilities found in smart contracts.
-## Databases/Books and References
+## <a name="databases"> Databases/Books and References
 * [Chainlist](https://chainlist.org/) - Helping users connect to EVM powered networks
 * [REKT](https://rekt.news/leaderboard/) - Rekt News is a leading online platform offering timely and concise information on decentralized finance (DeFi), blockchain, and the cryptocurrency industry
 * [Smart Contract Security Chapter](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc) - Chapter 9 from Ethereum book.
