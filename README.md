@@ -7,6 +7,7 @@ It is a collection of awesome software, libraries, documents, books, resources, 
 Thanks to all [contributors](https://github.com/fabionoth/awesome-web3-security/graphs/contributors). You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
 List links and description 
+[Tools]
 
 ## Tools
 ### Forensics
@@ -57,6 +58,8 @@ List links and description
 ## Standards
 * [ERC 20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) - The ERC-20 introduces a standard for Fungible Tokens, in other words, they have a property that makes each Token be exactly the same (in type and value) as another Token.
 * [OWASP Smart Contract](https://owasp.org/www-project-smart-contract-top-10/) - The OWASP Smart Contract Top 10 is a standard awareness document that intends to provide Web3 developers and security teams with insight into the top 10 vulnerabilities found in smart contracts.
-## Databases
+## Databases/Books and References
 * [Chainlist](https://chainlist.org/) - Helping users connect to EVM powered networks
 * [REKT](https://rekt.news/leaderboard/) - Rekt News is a leading online platform offering timely and concise information on decentralized finance (DeFi), blockchain, and the cryptocurrency industry
+* [Smart Contract Security Chapter](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc) - Chapter 9 from Ethereum book.
+
