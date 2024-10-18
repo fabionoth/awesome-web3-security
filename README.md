@@ -64,6 +64,7 @@ List links and description
 * [Capture the Ether](https://capturetheether.com/) - the game of Ethereum smart contract security
 * [ciphershastra](https://ciphershastra.com/) - A place where you can enhance your Security Skills by solving and learning from CTF-like challenges.
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - The training ground for security researchers, developers and educators to dive into smart contract security.
+* [Hack the TON](https://www.hacktheton.com/) - Hack the TON is a TON based wargame inspired by The Ethernaut, played in the TON Virtual Machine.
 * [The Ethernaut](https://ethernaut.openzeppelin.com/) - The Ethernaut is a Web3/Solidity based wargame inspired by overthewire.org
 ## <a name="playgrounds"> Playgrounds
 * [Remix Ethereum](https://remix.ethereum.org/) - No more words. Everybody knows Remix
