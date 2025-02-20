@@ -56,6 +56,7 @@ List links and description
 ### <a name="others"> Other tools
 * [ETH-Toolbox](https://eth-toolbox.com/) - EthToolbox v1.1 is a set of useful tools for Ethereum developers.
 * [dethcode](https://github.com/dethcrypto/dethcode) - View source of deployed Ethereum smart contracts in VS Code
+* [GetBlock](https://getblock.io/) - a Blockchain-as-a-Service (BaaS) platform that provides a fast and easy API connection to RPC full nodes for 50+ blockchains.
 ## <a name="bugbounty"> BugBounty
 * [Hacken Proof](https://hackenproof.com/) - Expert web3 bug bounty and crowdsourced audit platform
 * [Immunefi](https://immunefi.com/) - Web3's bug bounty platform
