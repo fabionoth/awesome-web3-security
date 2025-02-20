@@ -62,6 +62,7 @@ List links and description
 ## <a name="ctf"> CTF
 * [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
 * [Capture the Ether](https://capturetheether.com/) - the game of Ethereum smart contract security
+* [CryptoHack](https://cryptohack.org/) - A free, fun platform for learning modern cryptography
 * [ciphershastra](https://ciphershastra.com/) - A place where you can enhance your Security Skills by solving and learning from CTF-like challenges.
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - The training ground for security researchers, developers and educators to dive into smart contract security.
 * [Hack the TON](https://www.hacktheton.com/) - Hack the TON is a TON based wargame inspired by The Ethernaut, played in the TON Virtual Machine.
