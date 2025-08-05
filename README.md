@@ -40,6 +40,7 @@ List links and description
 * [Manticore](https://github.com/trailofbits/manticore) - Manticore is a symbolic execution tool for the analysis of smart contracts and binaries.
 * [Mythril](https://github.com/ConsenSys/mythril) - Mythril is a security analysis tool for EVM bytecode
 * [Mythx](https://mythx.io/) - Create a MythX account, link your Ethereum address, and generate API keys
+* [Olympix](https://github.com/olympix) - Scanning for vulnerabilities, or automating test generation. 
 * [Octopus](https://github.com/FuzzingLabs/octopus) - Octopus is a security analysis framework for WebAssembly module and Blockchain Smart Contract.
 * [Scribble](https://github.com/ConsenSys/scribble) - A Solidity runtime verification tool for property-based testing.
 * [Security2](https://github.com/eth-sri/securify2) - Securify 2.0 is a security scanner for Ethereum smart contracts supported by the Ethereum Foundation and ChainSecurity.
