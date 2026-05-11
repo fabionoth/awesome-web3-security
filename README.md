@@ -29,6 +29,7 @@ List links and description
 ### <a name="testing"> Testing
 * [BSCheck](https://bscheck.eu/) - Free Binance Smart Chain token analyzer
 * [QuillCheck](https://check.quillai.network/) - Safeguard your web3 investments with our AI Agent. Uncover honeypots, understand token permissions, and get comprehensive market insights. Shield yourself from rugpulls and scam tokens. DYOR here!
+* [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast, flags honeypots before liquidity is added.
 * [Rugscreen](https://rugscreen.com/) - Catches rugpulls before you lose money.
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics
 * [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
