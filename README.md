@@ -31,6 +31,7 @@ List links and description
 * [QuillCheck](https://check.quillai.network/) - Safeguard your web3 investments with our AI Agent. Uncover honeypots, understand token permissions, and get comprehensive market insights. Shield yourself from rugpulls and scam tokens. DYOR here!
 * [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast, flags honeypots before liquidity is added.
 * [Rugscreen](https://rugscreen.com/) - Catches rugpulls before you lose money.
+* [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Live token risk scanner for honeypot, liquidity, holder, ownership, and authority signals.
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics
 * [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
 ### <a name="sast"> SAST/DAST/Unity Test Analysis
