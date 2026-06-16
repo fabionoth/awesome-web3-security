@@ -58,6 +58,7 @@ List links and description
 * [Foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 ### <a name="others"> Other tools
 * [ETH-Toolbox](https://eth-toolbox.com/) - EthToolbox v1.1 is a set of useful tools for Ethereum developers.
+* [EVM Transaction Risk Decoder](https://gpt55.558686.xyz/x402/evm-transaction-risk-decoder) - x402 paid pre-signing calldata decoder for risky approvals, permits, operator approvals, transfers, and multicall hints without private keys or transaction broadcast.
 * [dethcode](https://github.com/dethcrypto/dethcode) - View source of deployed Ethereum smart contracts in VS Code
 * [GetBlock](https://getblock.io/) - a Blockchain-as-a-Service (BaaS) platform that provides a fast and easy API connection to RPC full nodes for 50+ blockchains.
 * [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. MCP server for verifying agent wallet identity and behavioral history before x402 micropayments — identity layer for autonomous AI agents operating in Web3. [MCP](https://intel.twzrd.xyz/mcp)
@@ -83,4 +84,3 @@ List links and description
 * [Chainlist](https://chainlist.org/) - Helping users connect to EVM powered networks
 * [REKT](https://rekt.news/leaderboard/) - Rekt News is a leading online platform offering timely and concise information on decentralized finance (DeFi), blockchain, and the cryptocurrency industry
 * [Smart Contract Security Chapter](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc) - Chapter 9 from Ethereum book.
-
