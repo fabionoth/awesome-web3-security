@@ -32,6 +32,7 @@ List links and description
 * [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast, flags honeypots before liquidity is added.
 * [Rugscreen](https://rugscreen.com/) - Catches rugpulls before you lose money.
 * [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Live token risk scanner for honeypot, liquidity, holder, ownership, and authority signals.
+* [RugLens](https://mrvlyouknowwho.github.io/ruglens/) - Free open-source honeypot & rug-pull checker for EVM tokens and TON jettons. Live sell simulation, contract flags, holder concentration and liquidity, in-browser with no sign-up. [Source](https://github.com/mrvlyouknowwho/ruglens).
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics
 * [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
 ### <a name="sast"> SAST/DAST/Unity Test Analysis
