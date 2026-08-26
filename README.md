@@ -61,6 +61,7 @@ List links and description
 * [dethcode](https://github.com/dethcrypto/dethcode) - View source of deployed Ethereum smart contracts in VS Code
 * [GetBlock](https://getblock.io/) - a Blockchain-as-a-Service (BaaS) platform that provides a fast and easy API connection to RPC full nodes for 50+ blockchains.
 * [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. MCP server for verifying agent wallet identity and behavioral history before x402 micropayments — identity layer for autonomous AI agents operating in Web3. [MCP](https://intel.twzrd.xyz/mcp)
+* [SafeAgent](https://github.com/Bemosha/safeagent) - Chrome extension that detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms and typosquatted domains. Detection runs locally, no telemetry, MV3, MIT. [Chrome Web Store](https://chromewebstore.google.com/detail/ofohhhijlkclalcbfckgpinancpdapmh)
 ## <a name="bugbounty"> BugBounty
 * [Hacken Proof](https://hackenproof.com/) - Expert web3 bug bounty and crowdsourced audit platform
 * [Immunefi](https://immunefi.com/) - Web3's bug bounty platform
