@@ -33,6 +33,7 @@ List links and description
 * [Rugscreen](https://rugscreen.com/) - Catches rugpulls before you lose money.
 * [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Live token risk scanner for honeypot, liquidity, holder, ownership, and authority signals.
 * [TRONSEC](https://tronsec.io/app/) - Read-only browser security workbench for TRON: wallet scanner, AML heuristics, contract risk signals, transaction decoder, and URL/phishing checks. Open-source: [github.com/jamejohns/tronsec](https://github.com/jamejohns/tronsec).
+* [RugLens](https://mrvlyouknowwho.github.io/ruglens/) - Free open-source honeypot & rug-pull checker for EVM tokens and TON jettons. Live sell simulation, contract flags, holder concentration and liquidity, in-browser with no sign-up. [Source](https://github.com/mrvlyouknowwho/ruglens).
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics
 * [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
 ### <a name="sast"> SAST/DAST/Unity Test Analysis
@@ -62,9 +63,11 @@ List links and description
 * [dethcode](https://github.com/dethcrypto/dethcode) - View source of deployed Ethereum smart contracts in VS Code
 * [GetBlock](https://getblock.io/) - a Blockchain-as-a-Service (BaaS) platform that provides a fast and easy API connection to RPC full nodes for 50+ blockchains.
 * [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. MCP server for verifying agent wallet identity and behavioral history before x402 micropayments — identity layer for autonomous AI agents operating in Web3. [MCP](https://intel.twzrd.xyz/mcp)
+* [SafeAgent](https://github.com/Bemosha/safeagent) - Chrome extension that detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms and typosquatted domains. Detection runs locally, no telemetry, MV3, MIT. [Chrome Web Store](https://chromewebstore.google.com/detail/ofohhhijlkclalcbfckgpinancpdapmh)
 ## <a name="bugbounty"> BugBounty
 * [Hacken Proof](https://hackenproof.com/) - Expert web3 bug bounty and crowdsourced audit platform
 * [Immunefi](https://immunefi.com/) - Web3's bug bounty platform
+* [Bounty Radar](https://agent.zbang.net/radar/) - Cross-references every Immunefi bug bounty program with the GitHub repos actually in its scope, so you can see which programs pay without KYC, which have Safe Harbor legal protection, and whether the in-scope code has been pushed recently. Free JSON API, [open data](https://github.com/ofirbaranesad-agent/bounty-radar).
 ## <a name="ctf"> CTF
 * [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
 * [Capture the Ether](https://capturetheether.com/) - the game of Ethereum smart contract security
