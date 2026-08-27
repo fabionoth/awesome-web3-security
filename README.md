@@ -64,6 +64,7 @@ List links and description
 ## <a name="bugbounty"> BugBounty
 * [Hacken Proof](https://hackenproof.com/) - Expert web3 bug bounty and crowdsourced audit platform
 * [Immunefi](https://immunefi.com/) - Web3's bug bounty platform
+* [Bounty Radar](https://agent.zbang.net/radar/) - Cross-references every Immunefi bug bounty program with the GitHub repos actually in its scope, so you can see which programs pay without KYC, which have Safe Harbor legal protection, and whether the in-scope code has been pushed recently. Free JSON API, [open data](https://github.com/ofirbaranesad-agent/bounty-radar).
 ## <a name="ctf"> CTF
 * [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
 * [Capture the Ether](https://capturetheether.com/) - the game of Ethereum smart contract security
