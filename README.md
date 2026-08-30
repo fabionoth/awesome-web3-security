@@ -86,5 +86,6 @@ List links and description
 ## <a name="databases"> Databases/Books and References
 * [Chainlist](https://chainlist.org/) - Helping users connect to EVM powered networks
 * [REKT](https://rekt.news/leaderboard/) - Rekt News is a leading online platform offering timely and concise information on decentralized finance (DeFi), blockchain, and the cryptocurrency industry
+* [Telem Incident Feed](https://telem.news/security/incidents) - Running record of DeFi exploits, hacks and rug pulls, one original attributed brief per incident. Free, no login.
 * [Smart Contract Security Chapter](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc) - Chapter 9 from Ethereum book.
 
