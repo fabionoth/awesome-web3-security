@@ -64,6 +64,7 @@ List links and description
 * [GetBlock](https://getblock.io/) - a Blockchain-as-a-Service (BaaS) platform that provides a fast and easy API connection to RPC full nodes for 50+ blockchains.
 * [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. MCP server for verifying agent wallet identity and behavioral history before x402 micropayments — identity layer for autonomous AI agents operating in Web3. [MCP](https://intel.twzrd.xyz/mcp)
 * [SafeAgent](https://github.com/Bemosha/safeagent) - Chrome extension that detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms and typosquatted domains. Detection runs locally, no telemetry, MV3, MIT. [Chrome Web Store](https://chromewebstore.google.com/detail/ofohhhijlkclalcbfckgpinancpdapmh)
+* [NightFall Crypto Access Exit Check](https://github.com/do2006/nightfall-crypto-access-exit-check) - Read-only post-revocation scanner for Safe owners/modules, Safe Allowance Module permissions, and ERC token approvals; installable from npm as `nightfall-crypto-access-exit-check`.
 ## <a name="bugbounty"> BugBounty
 * [Hacken Proof](https://hackenproof.com/) - Expert web3 bug bounty and crowdsourced audit platform
 * [Immunefi](https://immunefi.com/) - Web3's bug bounty platform
