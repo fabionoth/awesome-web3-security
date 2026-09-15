@@ -87,4 +87,5 @@ List links and description
 * [Chainlist](https://chainlist.org/) - Helping users connect to EVM powered networks
 * [REKT](https://rekt.news/leaderboard/) - Rekt News is a leading online platform offering timely and concise information on decentralized finance (DeFi), blockchain, and the cryptocurrency industry
 * [Smart Contract Security Chapter](https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc) - Chapter 9 from Ethereum book.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
