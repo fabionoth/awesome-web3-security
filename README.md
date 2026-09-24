@@ -36,6 +36,7 @@ List links and description
 * [RugLens](https://mrvlyouknowwho.github.io/ruglens/) - Free open-source honeypot & rug-pull checker for EVM tokens and TON jettons. Live sell simulation, contract flags, holder concentration and liquidity, in-browser with no sign-up. [Source](https://github.com/mrvlyouknowwho/ruglens).
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics
 * [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
+* [CryptoStrapon Scam Detector](https://cryptostrapon.com/scan) - Free AI-powered scam detector for wallet addresses, tokens and sites, backed by 48 published fraud investigations (EN/ES). No sign-up.
 ### <a name="sast"> SAST/DAST/Unity Test Analysis
 * [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 * [Ethereum Security Box](https://github.com/trailofbits/eth-security-toolbox) - This repository contains scripts to create a Docker container preinstalled and preconfigured with all of Trail of Bits’ Ethereum security tools.
