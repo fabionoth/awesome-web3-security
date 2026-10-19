@@ -28,6 +28,7 @@ List links and description
 * [Panoramix](https://github.com/palkeo/panoramix) -This is an EVM decompiler.
 ### <a name="testing"> Testing
 * [BSCheck](https://bscheck.eu/) - Free Binance Smart Chain token analyzer
+* [Launch Watch](https://invisiblemonsters.github.io/launch-watch/) - Automated, evidence-linked free risk scores for new token launches on Robinhood Chain and Base, with JSON/Atom feeds; open-source scanner at [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan).
 * [QuillCheck](https://check.quillai.network/) - Safeguard your web3 investments with our AI Agent. Uncover honeypots, understand token permissions, and get comprehensive market insights. Shield yourself from rugpulls and scam tokens. DYOR here!
 * [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast, flags honeypots before liquidity is added.
 * [Rugscreen](https://rugscreen.com/) - Catches rugpulls before you lose money.
