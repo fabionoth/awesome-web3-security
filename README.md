@@ -34,6 +34,7 @@ List links and description
 * [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Live token risk scanner for honeypot, liquidity, holder, ownership, and authority signals.
 * [TRONSEC](https://tronsec.io/app/) - Read-only browser security workbench for TRON: wallet scanner, AML heuristics, contract risk signals, transaction decoder, and URL/phishing checks. Open-source: [github.com/jamejohns/tronsec](https://github.com/jamejohns/tronsec).
 * [RugLens](https://mrvlyouknowwho.github.io/ruglens/) - Free open-source honeypot & rug-pull checker for EVM tokens and TON jettons. Live sell simulation, contract flags, holder concentration and liquidity, in-browser with no sign-up. [Source](https://github.com/mrvlyouknowwho/ruglens).
+* [Quantum Audit](https://quantumaudit.app/) - Token risk checker for Ethereum, BNB Chain, Base, Arbitrum, Polygon and Solana with a deterministic risk score and every factor shown (mint and freeze rights, liquidity locks, holder concentration, taxes, honeypot), plus a public dashboard of dated token security records.
 * [TokenSniffer](https://tokensniffer.com/) - Automated scam detection, auditing, and metrics
 * [Rug PUll Detector](http://rugpulldetector.com/) - Find the smart contract of the token and copy solidity code
 ### <a name="sast"> SAST/DAST/Unity Test Analysis
