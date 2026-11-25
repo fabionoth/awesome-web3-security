@@ -27,6 +27,7 @@ List links and description
 * [DeDaub](https://app.dedaub.com/decompile) - The Dedaub decompiler takes Ethereum Virtual Machine (EVM) bytecode and produces more readable Solidity-like code.
 * [Panoramix](https://github.com/palkeo/panoramix) -This is an EVM decompiler.
 ### <a name="testing"> Testing
+* [AIDYOR](https://github.com/Struja007-alt/aidyor) - Multi-chain token security scanner that detects honeypots, rug pulls, and scam tokens across 9 networks.
 * [BSCheck](https://bscheck.eu/) - Free Binance Smart Chain token analyzer
 * [QuillCheck](https://check.quillai.network/) - Safeguard your web3 investments with our AI Agent. Uncover honeypots, understand token permissions, and get comprehensive market insights. Shield yourself from rugpulls and scam tokens. DYOR here!
 * [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis, and factory pattern detection. Catches rug pulls mid-broadcast, flags honeypots before liquidity is added.
