@@ -52,6 +52,7 @@ List links and description
 * [Surya](https://github.com/ConsenSys/surya) - Surya is an utility tool for smart contract systems. It provides a number of visual outputs and information about the contracts' structure.
 * [SmartCheck](https://github.com/smartdec/smartcheck) - SmartCheck is an extensible static analysis tool for discovering vulnerabilities and other code issues in Ethereum smart contracts written in the Solidity programming language.
 * [Truffle Suite](https://archive.trufflesuite.com/) - The most comprehensive suite of tools for smart contract development
+* [realism-gate](https://github.com/KhomDev/realism-gate) - Static check of exploit PoC tests (Foundry, Solana Rust, Anchor TypeScript, Move) for setups that make a passing PoC prove less than it claims (privileged pranks, cheatcode-written storage, assertions that cannot fail, unpinned forks), plus a claim table that binds a report to its PoC. Offline. MIT.
 ### <a name="os"> OS
 * [ZIION](https://www.ziion.org/) - ZIION is the first open-source, end-to-end, pre-compiled, multi-architecture, multi-protocol blockchain security testing and development solution
 ### <a name="fuzzers"> Fuzzers
@@ -68,6 +69,7 @@ List links and description
 * [Hacken Proof](https://hackenproof.com/) - Expert web3 bug bounty and crowdsourced audit platform
 * [Immunefi](https://immunefi.com/) - Web3's bug bounty platform
 * [Bounty Radar](https://agent.zbang.net/radar/) - Cross-references every Immunefi bug bounty program with the GitHub repos actually in its scope, so you can see which programs pay without KYC, which have Safe Harbor legal protection, and whether the in-scope code has been pushed recently. Free JSON API, [open data](https://github.com/ofirbaranesad-agent/bounty-radar).
+* [priorart](https://github.com/KhomDev/priorart) - Checks an audit or bug-bounty finding against a program's saved prior audits, known issues and scope: has it been found, is it excluded, can it be paid. Quoted evidence with page numbers, no verdict. Offline CLI, MCP server and GitHub Action. MIT.
 ## <a name="ctf"> CTF
 * [blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
 * [Capture the Ether](https://capturetheether.com/) - the game of Ethereum smart contract security
